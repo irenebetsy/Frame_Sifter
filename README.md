@@ -71,9 +71,11 @@ Uses MoviePy to compile matched frames into a new video file.
 
 ## ▶️ Usage
 
+```
 🎥 Input Video  — The source video containing multiple frames
 🖼️ Input Image  — The target image we are detecting in the video
 🎥 Output Video — Extracted frames where the image appears, compiled into a new video
+```
 
 ---
 ## 🖼️ Visualization
