@@ -115,6 +115,26 @@ Displays matched keypoints in real-time for debugging:
 
 ---
 
+<table>
+<tr>
+  <td>
+    <ul>
+      <li>🖼️ <strong>Input Image</strong> — The target image we are detecting in the video</li>
+      <li>🎥 <strong>Input Video</strong> — The source video containing multiple frames</li>
+      <li>✅ <strong>Output Video</strong> — Extracted frames where the image appears, compiled into a new video</li>
+    </ul>
+  </td>
+  <td>
+    <img src="Data2\download.png" alt="Input Image" width="250" height="150"/><br><br>
+    <img src="Data2\Boomerang UK Doraemon New Show Promo.mp4" alt="Input Video GIF" width="250" height="150"/><br><br>
+    <img src="Output\output_video.mp4" alt="Output Video GIF" width="250" height="150"/>
+  </td>
+</tr>
+</table>
+
+---
+
+
 ## 💡 Future Improvements
 
 - ⚡ GPU acceleration for faster SIFT matching
