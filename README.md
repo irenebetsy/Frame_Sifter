@@ -125,7 +125,7 @@ Displays matched keypoints in real-time for debugging:
     </ul>
   </td>
   <td>
-    <img src="Output\output_video.mp4" alt="Output Video GIF" width="250" height="150"/>
+    <img src="Output\output_video.mp4" alt="Output Video GIF" width="300" height="300"/>
   </td>
 </tr>
 </table>
