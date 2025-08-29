@@ -125,8 +125,6 @@ Displays matched keypoints in real-time for debugging:
     </ul>
   </td>
   <td>
-    <img src="Data2\download.png" alt="Input Image" width="250" height="150"/><br><br>
-    <img src="Data2\Boomerang UK Doraemon New Show Promo.mp4" alt="Input Video GIF" width="250" height="150"/><br><br>
     <img src="Output\output_video.mp4" alt="Output Video GIF" width="250" height="150"/>
   </td>
 </tr>
