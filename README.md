@@ -71,10 +71,9 @@ Uses MoviePy to compile matched frames into a new video file.
 
 ## ▶️ Usage
 
-input_video = "input/sample_video.mp4"
-input_image = "input/target_image.png"
-output_video = "output/matched_segments.mp4"
-
+🎥 Input Video  — The source video containing multiple frames
+🖼️ Input Image  — The target image we are detecting in the video
+🎥 Output Video — Extracted frames where the image appears, compiled into a new video
 
 ---
 ## 🖼️ Visualization
@@ -112,25 +111,6 @@ Displays matched keypoints in real-time for debugging:
 - Use forward slashes / in paths for Windows compatibility.
 - OpenCV windows can be disabled for headless processing.
 - Works best on videos with minimal motion blur or occlusion.
-
----
-
-<table>
-<tr>
-  <td>
-    <ul>
-      <li>🖼️ <strong>Input Image</strong> — The target image we are detecting in the video</li>
-      <li>🎥 <strong>Input Video</strong> — The source video containing multiple frames</li>
-      <li>✅ <strong>Output Video</strong> — Extracted frames where the image appears, compiled into a new video</li>
-    </ul>
-  </td>
-  <td>
-    <img src="Data2\download.png" alt="Input Image" width="250" height="150"/><br><br>
-    <img src="Data2\Boomerang UK Doraemon New Show Promo.mp4" alt="Input Video GIF" width="250" height="150"/><br><br>
-    <img src="Output\output_video.mp4" alt="Output Video GIF" width="300" height="300"/>
-  </td>
-</tr>
-</table>
 
 ---
 
