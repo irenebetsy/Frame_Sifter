@@ -125,6 +125,6 @@ Displays matched keypoints in real-time for debugging:
 ---
 
 ## 👩‍💻 Author
-  **Irene Betsy D** 
+**Irene Betsy D** 
 
 ---
