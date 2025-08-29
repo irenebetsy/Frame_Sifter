@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.7+-green?logo=opencv&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?logo=opensource&logoColor=white)
 
 Automatically detect a specific image in a video using **SIFT (Scale-Invariant Feature Transform)** and extract all frames containing that image into a **new video**!  
 
