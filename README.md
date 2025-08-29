@@ -31,6 +31,8 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](./L
 pip install opencv-python numpy moviepy
 ```
 
+---
+
 ## 📁 Project Structure
 ```
 VideoSegmentExtractor/
@@ -82,11 +84,11 @@ Displays matched keypoints in real-time for debugging:
 ## ⚙️ Configuration Options
 
 ```
-| Parameter       | Default | Description                                                     |
-|-----------------|---------|-----------------------------------------------------------------|
-| `ratio_threshold` | 0.75    | Lowe's ratio test threshold for feature matching               |
+| Parameter        | Default | Description                                                           |
+| -----------------|---------|-----------------------------------------------------------------------|
+| `ratio_threshold`| 0.75    | Lowe's ratio test threshold for feature matching                      |
 | `min_inliers`    | 4       | Minimum number of inlier matches required to consider a frame matched |
-| `fps`            | 30      | Frames per second for the output video                          |
+| `fps`            | 30      | Frames per second for the output video                                |
 ```
 
 💡 Tips:
@@ -123,7 +125,6 @@ Displays matched keypoints in real-time for debugging:
 ---
 
 ## 👩‍💻 Author
-
-  **Irene Betsy D** 
+**Irene Betsy D** 
 
 ---
